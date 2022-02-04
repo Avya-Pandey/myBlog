@@ -11,7 +11,7 @@ body {
 #welcome {
     position: absolute;
     bottom: 0;
-    background-color: #a8eb12;
+    background: linear-gradient(#a2ebdb 0%,#238994 40%, #27ae60 50%);
     display: table;
     width: 100%;
     height: 100%;
